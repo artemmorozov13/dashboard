@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "artem@mail.ru",
+      "password": "123456",
+      "passwordAgain": "123456",
+      "id": 1
+    },
+    {
+      "email": "artem123@mail.ru",
+      "password": "654321",
+      "passwordAgain": "654321",
+      "id": 2
+    },
+    {
+      "email": "artem1234@mail.ru",
+      "password": "654321",
+      "passwordAgain": "654321",
+      "id": 3
+    },
+    {
+      "email": "artem223@mail.ru",
+      "password": "123456",
+      "passwordAgain": "123456",
+      "id": 4
+    },
+    {
+      "email": "artem223@mail.ru",
+      "password": "123456",
+      "passwordAgain": "123456",
+      "id": 5
+    },
+    {
+      "email": "abubandit@mail.ru",
+      "password": "123456",
+      "passwordAgain": "123456 ",
+      "id": 6
+    },
+    {
+      "email": "realmail@sd.sd",
+      "password": "123456",
+      "passwordAgain": "123456",
+      "id": 7
+    },
+    {
+      "email": "artem123456@mail.ru",
+      "password": "130801mor",
+      "passwordAgain": "130801mor",
+      "id": 8
+    },
+    {
+      "email": "test@mail.sd",
+      "password": "12345676543",
+      "passwordAgain": "234565432345",
+      "id": 9
+    },
+    {
+      "email": "r12ealmail@sd.sd",
+      "password": "213456432",
+      "passwordAgain": "2134567643",
+      "id": 10
+    }
+  ]
+}

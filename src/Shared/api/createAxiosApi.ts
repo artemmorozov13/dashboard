@@ -2,11 +2,11 @@ import axios, { AxiosInstance } from "axios";
 
 const createAxiosApi = (): AxiosInstance => {
     return axios.create({
-        baseURL: "/api/v1",
+        baseURL: "http://localhost:3000",
         headers: {
     
         }
     })
 }
 
-export const API = createAxiosApi()
+export const api = createAxiosApi()

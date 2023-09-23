@@ -1,5 +1,5 @@
 export interface UserType {
-    login: string
+    login?: string
     email: string
     name?: string
     lastName?: string
