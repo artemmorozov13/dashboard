@@ -17,7 +17,8 @@ export const routeConfig: Record<AppRoutes, AppRoutesWithAuthProps> = {
   },
   [AppRoutes.REGISTER]: {
     path: routes.register,
-    element: <RegisterPage />
+    element: <RegisterPage />,
+    notAuthOnly: true
   },
   // 404
   [AppRoutes.NOT_FOUND]: {
