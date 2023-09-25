@@ -39,6 +39,8 @@ const RegisterByEmail: FC = () => {
                 setError("Ошибка при создании пользователя")
             }
 
+            window.localStorage.setItem("userId", response.data.id)
+
             const payload: UserType = {
                 email: data.email
             }

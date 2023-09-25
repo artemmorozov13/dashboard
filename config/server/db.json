@@ -59,6 +59,18 @@
       "password": "213456432",
       "passwordAgain": "2134567643",
       "id": 10
+    },
+    {
+      "email": "artem1111@mail.ru",
+      "password": "12345676432",
+      "passwordAgain": "2345432345",
+      "id": 11
+    },
+    {
+      "email": "a212rtem1111@mail.ru",
+      "password": "12345632",
+      "passwordAgain": "123454532",
+      "id": 12
     }
   ]
 }

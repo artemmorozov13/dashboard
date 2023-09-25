@@ -2,7 +2,8 @@ import { RouteProps } from "react-router-dom"
 
 
 export type AppRoutesWithAuthProps = RouteProps & {
-  authOnly?: boolean
+  authOnly?: boolean,
+  notAuthOnly?: boolean
 }
 
 export enum AppRoutes {
